@@ -1,0 +1,20 @@
+
+/sistema-delivery
+│
+├── /components
+│   ├── /ui
+│   │   ├── button.js
+│   │   ├── card.js
+│   │   └── input.js
+│   └── /map.js
+├── /pages
+│   ├── /api
+│   │   ├── pedidos.js
+│   │   ├── usuarios.js
+│   │   └── chat.js
+│   └── dashboard.js
+│   └── login.js
+├── /public
+│   └── notification.mp3
+├── package.json
+└── README.md
